@@ -1,4 +1,4 @@
-Mortgage Calculator built using JavaScript and React library that uses sliders and select boxes to enter data and calculates the amount of monthly payments that need to be made using the formula:
+Mortgage Calculator built using JavaScript and React library that uses sliders and a select box to enter data and calculates the amount of monthly payments that need to be made using the formula:
 
 ![image](https://github.com/sadafsayeed/mortgage-calculator/assets/121372300/b05923e0-3ad5-45a1-a20f-ab7334267ccf)
 
